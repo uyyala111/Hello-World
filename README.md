@@ -1,4 +1,7 @@
 # Hello-World
 coding
+readme-edits
+my name is sharon.
+Iam pursing BTech in Svec
 
-print(hello world)
+ main
